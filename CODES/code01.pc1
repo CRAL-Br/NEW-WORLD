@@ -1,1 +1,9 @@
+# powerShe code testing
+# Estacio MACAPA
+
+# Gather PS current version
+
+$PSVersionTable.PV
+
+whit-host "final"
 
